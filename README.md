@@ -1,41 +1,66 @@
-# Hi, I'm Abigail De Leon 👋
+# Hi, I'm Abigail De Leon
 
-I'm a Computer Science student at Rice University passionate about software engineering, artificial intelligence, and machine learning.
+Computer Science student at Rice University passionate about Software Engineering, Artificial Intelligence, and Machine Learning. I enjoy building reliable software, solving challenging technical problems, and developing tools that improve developer productivity.
 
-## About Me
+## Education
 
-- B.S. in Computer Science at Rice University
-- Interested in Software Engineering and AI
-- Building AI applications, developer tools, and full-stack software
-- Currently learning distributed systems, LLMs, backend engineering, and cloud technologies
+**Rice University** (B.S. Computer Science, Minor in Mathematics)  
+Expected Graduation: May 2028
+
+**Cornell Tech – Break Through Tech AI/ML Fellowship**  
+Certificate in AI/ML
 
 ## Technical Skills
 
-**Languages**
+### Languages
 - Python
 - Java
 - C/C++
+- C#
 - JavaScript
-- SQL
+- Assembly
+- Haskell
 - HTML/CSS
 
-**Tools**
+### Tools & Technologies
 - Git
-- GitHub
+- Linux/Unix
+- Bash/Zsh
+- Pytest
+- JSON
 - VS Code
-- Linux
-- Docker
+- IntelliJ
+- Jupyter
+- PyCharm
+- Graphviz
+- ANTLR
+
+## Experience
+
+- AI Software Engineer – Outlier AI
+- Independent Contractor – Mercor
+- AI Software Engineer Intern – Deepiri
+- Teaching Assistant – Rice University (Algorithms & Data Structures)
+- AI Software Engineer (Evaluation) – Alignerr
 
 ## Featured Projects
 
-I'm currently adding projects from coursework, internships, and personal development.
+### Memory Allocator (C)
+- Built a dynamic memory allocator using segregated free lists.
+- Improved allocator performance by over 200%.
+- Optimized memory utilization and allocation throughput.
 
-Upcoming repositories include:
-- AI Projects
-- Algorithms & Data Structures
-- Machine Learning
+### Automated Test-Case Generation Framework (Java)
+- Developed a multi-stage automated testing pipeline.
+- Generated and minimized test cases while preserving bug detection.
+
+*More projects will be added as I continue developing personal, academic, and open-source work.*
+
+## Currently Learning
+
+- Large Language Models (LLMs)
 - Backend Development
-- Web Applications
+- Machine Learning Systems
 
 ## Connect with Me
 
