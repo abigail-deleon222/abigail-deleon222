@@ -4,10 +4,10 @@ I'm a Computer Science student at Rice University passionate about software engi
 
 ## About Me
 
-- 🎓 B.S. in Computer Science at Rice University
-- 💻 Interested in Software Engineering and AI
-- 🤖 Building AI applications, developer tools, and full-stack software
-- 🌱 Currently learning distributed systems, LLMs, backend engineering, and cloud technologies
+- B.S. in Computer Science at Rice University
+- Interested in Software Engineering and AI
+- Building AI applications, developer tools, and full-stack software
+- Currently learning distributed systems, LLMs, backend engineering, and cloud technologies
 
 ## Technical Skills
 
